@@ -1,0 +1,40 @@
+2023-12-16 20:59:58,731 INFO Strategy Game [main] Program has been successfully launched
+2023-12-16 21:00:00,283 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-16 21:00:01,803 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-16 21:00:01,996 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-16 21:00:02,155 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-16 21:00:02,435 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-16 21:00:03,043 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-16 21:00:04,707 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-16 21:00:06,228 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-16 21:00:06,995 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-16 21:00:07,547 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-16 21:00:08,051 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-16 21:00:08,476 INFO Strategy Game [JavaFX Application Thread] Collecting home button was clicked
+2023-12-16 21:00:08,979 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-16 21:00:09,547 INFO Strategy Game [JavaFX Application Thread] Build home button was clicked
+2023-12-16 21:00:10,068 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-16 21:00:10,588 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-16 21:00:11,131 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-16 21:00:11,883 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-16 21:00:12,636 INFO Strategy Game [JavaFX Application Thread] Buy field button was clicked
+2023-12-16 21:00:13,640 ERROR Strategy Game [JavaFX Application Thread] There are not enough resources to purchase a field
+2023-12-16 21:00:14,227 INFO Strategy Game [JavaFX Application Thread] Buy field button was clicked
+2023-12-16 21:00:14,831 ERROR Strategy Game [JavaFX Application Thread] There are not enough resources to purchase a field
+2023-12-16 21:00:18,207 FATAL Strategy Game [main] Program was closed
+2023-12-16 21:02:17,947 INFO Strategy Game [main] Program has been successfully launched
+2023-12-16 21:02:24,067 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-16 21:02:28,430 FATAL Strategy Game [main] Program was closed
+2023-12-16 21:02:58,115 INFO Strategy Game [main] Program has been successfully launched
+2023-12-16 21:02:59,772 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-16 21:03:01,844 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-16 21:03:04,326 FATAL Strategy Game [main] Program was closed
+
+2023-12-16 21:03:13,110 INFO Strategy Game [main] Program has been successfully launched
+2023-12-16 21:03:14,459 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-16 21:03:15,963 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-16 21:03:17,271 FATAL Strategy Game [main] Program was closed
+
+2023-12-16 21:19:44,076 INFO Strategy Game [main] Program has been successfully launched
+2023-12-16 21:24:38,574 FATAL Strategy Game [main] Program was closed
+
