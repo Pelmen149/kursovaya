@@ -1,0 +1,966 @@
+2023-12-18 13:12:02,738 INFO Strategy Game [main] Program has been successfully launched
+2023-12-18 13:12:08,614 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 13:12:50,139 INFO Strategy Game [main] Program has been successfully launched
+2023-12-18 13:13:02,029 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 13:13:11,452 ERROR Strategy Game [JavaFX Application Thread] File of save has forbidden characters
+2023-12-18 13:13:12,637 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 13:13:33,268 ERROR Strategy Game [JavaFX Application Thread] File of save has forbidden characters
+2023-12-18 13:13:33,832 FATAL Strategy Game [main] Program was closed
+
+2023-12-18 14:25:05,684 INFO Strategy Game [main] Program has been successfully launched
+2023-12-18 14:25:07,383 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 14:25:11,007 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 14:25:11,935 INFO Strategy Game [JavaFX Application Thread] Buy field button was clicked
+2023-12-18 14:25:13,292 ERROR Strategy Game [JavaFX Application Thread] There are not enough resources to purchase a field
+2023-12-18 14:25:14,031 INFO Strategy Game [JavaFX Application Thread] Buy field button was clicked
+2023-12-18 14:25:14,826 ERROR Strategy Game [JavaFX Application Thread] There are not enough resources to purchase a field
+2023-12-18 14:25:19,521 FATAL Strategy Game [main] Program was closed
+
+2023-12-18 14:36:38,281 INFO Strategy Game [main] Program has been successfully launched
+2023-12-18 14:36:45,654 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 14:36:47,766 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 14:36:49,942 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 14:51:34,574 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 14:51:37,236 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-18 14:51:43,477 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 14:51:50,621 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 14:51:51,876 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 14:52:12,278 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 14:52:20,829 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 14:52:28,020 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 14:52:29,485 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 14:52:30,245 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 14:52:31,148 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-18 14:52:35,756 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 14:52:38,173 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 14:52:38,812 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 14:52:39,925 INFO Strategy Game [JavaFX Application Thread] Build home button was clicked
+2023-12-18 14:52:41,164 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 14:52:41,964 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 14:52:42,700 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 14:52:43,548 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 14:52:44,996 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 14:52:45,724 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 14:52:46,668 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 14:52:47,341 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 14:52:48,308 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 14:54:19,862 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 14:54:35,203 ERROR Strategy Game [JavaFX Application Thread] File of save has forbidden characters
+2023-12-18 14:54:35,596 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 14:54:49,452 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 14:54:50,636 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 14:54:51,445 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-18 14:54:52,812 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 14:54:54,596 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-18 14:54:56,068 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-18 14:54:56,252 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-18 14:54:56,524 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-18 14:54:56,709 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-18 14:54:59,660 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 14:55:00,476 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 14:55:01,916 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 14:56:48,885 INFO Strategy Game [main] Program has been successfully launched
+2023-12-18 14:56:50,676 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 14:57:05,943 FATAL Strategy Game [main] Program was closed
+
+2023-12-18 15:03:30,541 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:03:35,772 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 15:04:48,725 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:04:50,292 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 15:06:06,421 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:06:37,453 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:06:38,907 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 15:09:25,429 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:09:26,835 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 15:09:26,845 INFO Strategy Game [JavaFX Application Thread] Program has been successfully launched
+2023-12-18 15:10:37,117 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:10:38,491 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 15:12:21,812 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:12:23,170 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 15:14:56,724 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:14:57,947 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 15:15:00,050 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:16:13,468 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:16:14,946 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 15:16:17,242 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:18:40,243 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:18:59,300 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:19:03,082 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 15:19:04,931 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 15:19:10,583 ERROR Strategy Game [JavaFX Application Thread] File of save has forbidden characters
+2023-12-18 15:19:10,970 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 15:19:20,790 ERROR Strategy Game [JavaFX Application Thread] File of save has forbidden characters
+2023-12-18 15:19:21,202 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 15:19:30,710 ERROR Strategy Game [JavaFX Application Thread] File of save has forbidden characters
+2023-12-18 15:19:32,562 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:19:40,812 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:19:42,338 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 15:19:46,946 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 15:20:11,107 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 15:20:19,818 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 15:20:20,498 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 15:20:28,143 ERROR Strategy Game [JavaFX Application Thread] File of save has forbidden characters
+2023-12-18 15:20:30,594 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 15:20:33,439 ERROR Strategy Game [JavaFX Application Thread] File of save was not choosen
+2023-12-18 15:20:33,899 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:20:35,218 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:20:35,746 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:20:35,898 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:20:36,066 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:20:36,218 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:20:36,369 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:20:36,474 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:20:36,634 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:20:36,794 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:20:36,946 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:21:57,587 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:21:59,674 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 15:21:59,681 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 15:41:45,178 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:41:51,624 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 15:41:51,632 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 15:46:22,577 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 15:46:25,256 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 15:46:26,088 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 15:46:27,023 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 15:46:29,112 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 15:46:30,584 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 15:46:32,159 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 15:46:33,711 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 15:46:34,583 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 15:46:35,216 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 16:11:29,360 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 16:11:39,013 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 16:11:39,019 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 16:13:05,190 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 16:13:14,462 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 16:13:14,469 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 16:14:15,151 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 16:15:38,774 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 16:16:01,341 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 16:16:01,346 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 16:58:34,498 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 17:01:50,883 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 17:02:55,370 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 17:03:24,826 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:03:24,834 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:04:00,154 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 17:04:03,320 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:04:03,331 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:06:35,225 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 17:06:39,105 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:06:39,272 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:06:39,448 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:06:39,704 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:06:39,873 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:06:40,016 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:06:40,281 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:06:40,472 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:06:40,641 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:06:40,792 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:06:41,057 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:06:41,216 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:06:45,049 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 17:06:46,304 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:06:50,872 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-18 17:06:51,849 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:06:54,976 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 17:06:55,552 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:06:57,673 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 17:06:58,280 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:06:59,441 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 17:06:59,897 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:07:01,880 INFO Strategy Game [JavaFX Application Thread] Build home button was clicked
+2023-12-18 17:07:02,712 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:07:04,568 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 17:07:05,168 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:07:06,384 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 17:07:08,960 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 17:07:21,177 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 17:07:24,920 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:07:52,672 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 17:07:53,744 INFO Strategy Game [JavaFX Application Thread] Buy field button was clicked
+2023-12-18 17:07:55,240 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:07:57,432 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:07:58,192 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:07:58,884 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:07:59,067 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:07:59,240 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:07:59,400 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:07:59,567 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:07:59,699 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:07:59,850 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:07:59,999 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:00,120 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:00,267 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:00,399 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:00,683 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:00,840 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:00,983 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:01,134 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:01,266 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:01,433 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:01,552 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:01,704 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:01,851 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:01,984 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:02,120 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:02,266 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:02,416 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:02,569 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:02,733 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:02,888 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:03,066 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:03,334 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:03,516 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:06,624 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:08:06,631 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:08:32,202 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 17:08:37,592 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:37,880 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:38,040 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:38,200 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:38,321 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:40,881 INFO Strategy Game [JavaFX Application Thread] Build home button was clicked
+2023-12-18 17:08:41,488 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:41,688 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:42,299 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:43,728 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 17:08:44,368 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:45,016 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:45,928 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:47,472 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 17:08:47,881 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:48,440 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 17:08:48,920 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:49,384 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 17:08:49,920 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:50,432 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-18 17:08:51,024 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:51,720 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 17:08:52,624 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:08:54,585 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 17:08:55,025 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:09:40,624 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:09:40,629 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:13:25,585 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:13:25,597 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:13:49,777 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 17:13:53,815 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 17:13:54,927 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:13:55,088 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:13:55,247 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:13:55,445 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:13:55,680 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:13:56,584 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:13:56,592 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:24:30,481 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 17:24:36,311 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:36,463 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:36,623 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:36,767 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:36,903 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:37,039 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:37,167 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:37,318 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:37,455 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:37,567 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:37,686 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:37,831 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:37,967 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:38,175 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:38,806 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 17:24:39,855 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:39,983 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:40,126 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:40,287 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:40,447 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:40,583 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:40,735 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:40,999 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:41,151 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:41,287 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:41,559 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:41,711 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:41,847 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:41,999 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:42,247 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:42,495 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:42,727 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:24:43,358 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 17:24:45,503 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:24:45,509 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:28:01,320 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 17:28:02,983 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:28:03,142 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:28:03,302 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:28:03,447 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:28:03,574 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:28:03,711 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:28:04,999 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 17:28:06,126 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 17:28:08,550 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 17:28:11,119 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:28:11,124 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:28:16,880 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 17:28:31,246 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:28:31,252 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:35:09,303 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 17:35:19,446 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:35:19,450 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:39:34,911 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 17:39:43,717 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 17:39:46,373 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 17:40:13,334 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:40:13,339 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:40:46,231 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 17:40:48,334 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:40:48,477 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:40:48,613 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:40:48,750 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:40:48,893 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:40:49,005 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:40:49,645 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 17:40:51,709 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 17:40:53,997 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 17:40:54,918 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:40:54,923 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:44:21,358 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 17:44:27,437 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 17:44:30,245 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 17:44:32,805 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:44:33,301 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:44:33,477 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:44:33,655 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:44:33,813 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:44:34,071 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:44:36,493 INFO Strategy Game [JavaFX Application Thread] Build home button was clicked
+2023-12-18 17:44:37,565 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:44:39,557 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 17:44:40,125 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:44:40,621 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 17:44:41,084 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:44:41,557 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 17:44:42,005 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:44:44,421 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 17:44:46,581 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 17:44:48,364 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:44:48,369 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:44:55,391 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 17:45:04,355 ERROR Strategy Game [JavaFX Application Thread] File of save has forbidden characters
+2023-12-18 17:45:06,229 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:45:06,234 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:45:16,295 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 17:45:17,981 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:45:18,124 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:45:18,285 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:45:18,565 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:45:18,709 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:45:18,869 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:45:19,573 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 17:45:19,964 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:45:20,677 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 17:45:21,053 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:45:21,549 INFO Strategy Game [JavaFX Application Thread] Build home button was clicked
+2023-12-18 17:45:22,085 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:45:22,685 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 17:45:23,269 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:45:23,741 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-18 17:45:24,213 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:45:24,701 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 17:45:25,181 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:45:25,645 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-18 17:45:26,221 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:45:26,670 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 17:45:27,437 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:45:28,684 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 17:45:32,397 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 17:45:33,925 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 17:45:34,748 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:45:34,753 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:45:42,374 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 17:45:49,965 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 17:45:56,309 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:45:56,313 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:47:58,454 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 17:48:04,538 ERROR Strategy Game [JavaFX Application Thread] File of save has forbidden characters
+2023-12-18 17:48:08,077 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 17:48:10,301 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:48:10,460 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:48:10,589 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:48:10,716 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:48:11,141 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 17:48:12,789 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 17:48:13,285 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:48:13,289 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:48:19,366 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 17:48:24,506 ERROR Strategy Game [JavaFX Application Thread] File of save has forbidden characters
+2023-12-18 17:48:25,276 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:48:25,281 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:48:49,134 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 17:48:53,530 ERROR Strategy Game [JavaFX Application Thread] File of save has forbidden characters
+2023-12-18 17:48:54,420 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:48:54,426 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:49:46,478 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 17:49:52,139 ERROR Strategy Game [JavaFX Application Thread] File of save has forbidden characters
+2023-12-18 17:49:56,700 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:49:56,705 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:54:06,558 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 17:54:09,505 ERROR Strategy Game [JavaFX Application Thread] File of save was not choosen
+2023-12-18 17:54:09,845 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 17:54:12,212 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:54:12,373 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:54:12,524 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:54:12,668 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:54:12,932 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:54:13,724 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 17:54:14,284 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:54:14,700 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-18 17:54:15,156 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:54:15,652 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 17:54:16,148 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:54:16,644 INFO Strategy Game [JavaFX Application Thread] Build home button was clicked
+2023-12-18 17:54:17,436 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:54:17,996 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 17:54:21,316 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 17:54:23,580 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 17:54:26,140 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:54:26,146 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:54:32,662 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 17:54:38,531 ERROR Strategy Game [JavaFX Application Thread] File of save has forbidden characters
+2023-12-18 17:54:39,356 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:54:39,361 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:55:13,614 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 17:55:20,746 ERROR Strategy Game [JavaFX Application Thread] File of save has forbidden characters
+2023-12-18 17:55:40,540 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 17:56:09,750 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 17:57:26,142 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 17:57:34,124 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 17:57:37,124 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:57:37,284 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:57:37,452 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:57:37,588 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:57:37,844 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:57:38,004 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:57:38,140 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:57:38,283 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:57:38,444 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:57:38,572 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:57:38,828 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:57:38,988 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 17:57:39,612 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 17:57:41,667 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 17:57:43,452 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 17:57:44,475 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 17:57:44,481 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 17:57:55,990 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 17:58:03,594 ERROR Strategy Game [JavaFX Application Thread] File of save has forbidden characters
+2023-12-18 18:01:41,125 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 18:01:42,867 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:01:43,028 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:01:43,163 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:01:43,420 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:01:43,571 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:01:44,252 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 18:01:44,715 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:01:45,371 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-18 18:01:45,875 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:01:46,347 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 18:01:46,971 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:01:47,564 INFO Strategy Game [JavaFX Application Thread] Build home button was clicked
+2023-12-18 18:01:48,260 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 18:01:49,931 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:01:50,379 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 18:01:52,147 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 18:01:54,139 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 18:01:55,387 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 18:01:55,394 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 18:02:05,037 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 18:02:11,036 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 18:02:13,715 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:02:14,276 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-18 18:02:14,819 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:02:15,268 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 18:02:15,732 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:02:16,164 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 18:02:16,563 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:02:17,051 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 18:02:17,492 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:02:17,908 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 18:02:18,292 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:02:18,883 INFO Strategy Game [JavaFX Application Thread] Build home button was clicked
+2023-12-18 18:02:19,476 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:02:20,108 INFO Strategy Game [JavaFX Application Thread] Build home button was clicked
+2023-12-18 18:02:20,556 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:02:20,964 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 18:02:23,987 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 18:02:26,692 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 18:02:28,027 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 18:02:28,032 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 18:02:34,717 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 18:02:40,058 ERROR Strategy Game [JavaFX Application Thread] File of save has forbidden characters
+2023-12-18 18:02:41,348 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 18:02:41,352 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 18:04:27,389 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 18:04:32,153 ERROR Strategy Game [JavaFX Application Thread] File of save has forbidden characters
+2023-12-18 18:04:36,699 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 18:04:38,444 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:04:38,635 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:04:38,803 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:04:38,963 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:04:39,091 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:04:39,220 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:04:40,036 INFO Strategy Game [JavaFX Application Thread] Build home button was clicked
+2023-12-18 18:04:40,539 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:04:41,147 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 18:04:41,667 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:04:42,227 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-18 18:04:43,051 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:04:43,827 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 18:04:44,683 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:04:45,203 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 18:04:58,635 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:04:59,883 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 18:05:14,003 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:05:15,163 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:05:23,315 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 18:05:23,319 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 18:05:30,405 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 18:05:31,987 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 18:05:34,451 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 18:05:35,155 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:05:37,259 INFO Strategy Game [JavaFX Application Thread] Build home button was clicked
+2023-12-18 18:05:37,835 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:05:39,619 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 18:05:40,259 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:05:41,507 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-18 18:05:41,979 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:05:42,411 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 18:05:42,859 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:05:43,438 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-18 18:05:44,099 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:05:44,627 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 18:05:45,251 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:05:46,979 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 18:05:50,347 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 18:05:52,451 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 18:05:52,457 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 18:05:59,045 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 18:06:06,075 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 18:06:07,852 INFO Strategy Game [JavaFX Application Thread] Build home button was clicked
+2023-12-18 18:06:09,099 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 18:06:09,915 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:06:10,515 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-18 18:06:11,099 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:06:11,639 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 18:06:12,155 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:06:12,655 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 18:06:13,115 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:06:13,904 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 18:06:14,563 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:06:16,603 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 18:06:21,963 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 18:06:25,387 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 18:06:25,395 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 18:06:35,540 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 18:06:39,802 ERROR Strategy Game [JavaFX Application Thread] File of save has forbidden characters
+2023-12-18 18:06:40,523 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 18:06:40,527 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 18:07:49,645 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 18:07:52,875 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 18:07:53,347 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:07:54,027 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 18:07:54,531 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:07:55,043 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-18 18:07:55,627 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:07:56,355 INFO Strategy Game [JavaFX Application Thread] Build home button was clicked
+2023-12-18 18:07:56,883 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:07:59,986 INFO Strategy Game [JavaFX Application Thread] Build home button was clicked
+2023-12-18 18:08:02,715 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 18:08:04,339 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:08:04,690 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 18:08:06,875 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 18:08:08,603 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 18:08:15,667 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 18:08:35,450 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 18:09:41,843 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 18:09:44,707 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 18:09:45,818 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 18:09:45,823 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 18:09:53,108 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 18:10:15,514 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 18:10:19,427 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 18:10:35,003 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:10:36,210 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 18:11:00,291 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:11:00,474 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:11:00,667 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:11:01,562 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 18:11:04,483 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 18:11:06,395 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 18:11:07,091 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 18:11:07,095 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 18:11:25,676 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 18:11:30,321 ERROR Strategy Game [JavaFX Application Thread] File of save has forbidden characters
+2023-12-18 18:11:39,578 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 18:11:54,043 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 18:12:21,219 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 18:12:22,938 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 18:13:26,163 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 18:13:33,954 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 18:14:00,466 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:14:00,682 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:14:02,410 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 18:14:10,011 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 18:14:11,618 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 18:14:13,474 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 18:14:13,480 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 18:14:27,796 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 18:14:40,130 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 18:14:41,914 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:14:42,059 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:14:42,218 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:14:42,355 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:14:42,610 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:14:42,762 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:14:42,986 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:14:43,130 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:14:43,315 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:14:43,419 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:14:43,570 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:14:43,835 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:14:44,090 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 18:14:44,763 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 18:14:46,898 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 18:14:48,186 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 18:14:48,906 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 18:14:48,912 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 18:14:54,515 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 18:15:00,290 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 18:15:09,691 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 18:15:09,695 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 18:56:23,617 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 18:57:14,528 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 18:57:20,886 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 18:57:20,892 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 19:02:02,543 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 19:02:06,391 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:02:08,270 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 19:02:16,534 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 19:02:19,790 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 19:02:19,796 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 19:03:02,560 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 19:03:06,166 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:03:08,510 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:03:09,702 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:03:11,766 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:03:12,798 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 19:03:16,950 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:03:20,126 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:03:20,278 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:03:20,550 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:03:20,734 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:03:20,894 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:03:21,038 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:03:21,198 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:03:21,349 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:03:25,709 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 19:03:28,773 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:03:29,414 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:03:41,734 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 19:03:44,758 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 19:03:44,763 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 19:05:04,559 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 19:05:09,286 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 19:05:11,518 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:05:14,406 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:05:15,078 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:05:15,590 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:05:15,950 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:05:16,134 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:05:16,413 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:05:16,614 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:05:16,773 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:05:16,950 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:05:17,093 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:05:17,230 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:05:17,406 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:05:17,558 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:05:21,934 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 19:05:21,939 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 19:06:10,183 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 19:06:15,046 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:06:15,486 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:06:15,750 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:06:15,909 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:06:17,606 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:06:21,822 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:06:44,157 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 19:06:44,161 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 19:06:51,047 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 19:06:54,502 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:06:55,622 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:06:56,957 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 19:06:57,621 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:07:00,374 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:07:04,245 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:07:06,126 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:07:07,078 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:07:07,901 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:07:08,254 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:07:08,389 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:07:08,550 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:07:08,693 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:07:09,317 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:07:16,733 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:07:17,710 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:07:24,861 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 19:07:24,867 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 19:08:25,190 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 19:08:28,149 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:08:29,949 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:08:30,358 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:08:30,750 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:08:31,581 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:08:32,910 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 19:08:34,206 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:08:34,654 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:08:34,830 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:08:35,005 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:08:35,805 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:08:36,597 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:08:38,693 INFO Strategy Game [JavaFX Application Thread] Buy field button was clicked
+2023-12-18 19:08:39,866 ERROR Strategy Game [JavaFX Application Thread] There are not enough resources to purchase a field
+2023-12-18 19:08:47,814 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 19:08:48,445 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:08:49,110 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-18 19:08:49,637 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:08:50,509 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 19:08:51,118 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:08:52,750 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:08:56,013 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 19:08:57,974 INFO Strategy Game [JavaFX Application Thread] Buy field button was clicked
+2023-12-18 19:09:00,653 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:09:02,262 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 19:09:02,267 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 19:09:59,319 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 19:10:06,317 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:10:08,661 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:10:10,085 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:10:10,581 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:10:10,733 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:10:10,901 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:10:11,045 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:10:12,566 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 19:10:13,142 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:10:13,590 INFO Strategy Game [JavaFX Application Thread] Watered rise button was clicked
+2023-12-18 19:10:14,117 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:10:14,701 INFO Strategy Game [JavaFX Application Thread] Collecting rise button was clicked
+2023-12-18 19:10:15,365 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:10:16,245 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 19:10:16,685 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:10:17,261 INFO Strategy Game [JavaFX Application Thread] Get water button was clicked
+2023-12-18 19:10:17,893 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:10:19,453 INFO Strategy Game [JavaFX Application Thread] Buy field button was clicked
+2023-12-18 19:10:21,725 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 19:10:23,822 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:10:24,853 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:10:26,893 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 19:10:28,765 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:10:30,325 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:10:31,973 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 19:10:35,965 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 19:10:37,925 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 19:10:40,981 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 19:11:10,021 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 19:11:26,429 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:11:26,853 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:11:27,533 INFO Strategy Game [JavaFX Application Thread] Show map button was clicked
+2023-12-18 19:11:29,733 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:11:31,437 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:11:33,413 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:11:33,710 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:11:33,877 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:11:34,037 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:11:37,661 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:11:39,269 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:11:43,653 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 19:11:43,659 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 19:24:39,037 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 19:24:41,644 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:24:49,380 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 19:24:50,450 ERROR Strategy Game [JavaFX Application Thread] C:\Strategy Game\Saves\?.save (Синтаксическая ошибка в имени файла, имени папки или метке тома)
+2023-12-18 19:25:02,844 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:25:07,564 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 19:25:10,668 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:25:13,371 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 19:25:36,188 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:25:39,716 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 19:25:46,300 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:26:07,380 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 19:26:08,287 ERROR Strategy Game [JavaFX Application Thread] C:\Strategy Game\Saves\01.\.save (Системе не удается найти указанный путь)
+2023-12-18 19:26:16,140 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 19:26:16,145 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 19:27:25,782 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 19:27:27,307 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:27:29,035 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 19:27:32,244 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:27:34,804 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 19:27:52,828 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:27:56,220 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 19:29:03,500 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:29:05,740 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 19:29:07,476 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:29:11,436 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 19:29:49,468 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 19:29:49,475 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 19:31:40,477 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 19:31:41,931 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:31:44,716 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:32:47,661 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 19:32:49,764 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 19:32:52,356 INFO Strategy Game [JavaFX Application Thread] Change map mode button was clicked
+2023-12-18 19:32:54,811 INFO Strategy Game [JavaFX Application Thread] Menu of buy buttons button was clicked
+2023-12-18 19:32:57,323 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:32:59,723 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 19:32:59,727 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 19:35:09,037 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 19:35:10,747 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:35:10,915 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:35:11,035 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:35:11,187 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:35:11,363 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:35:11,899 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 19:35:13,323 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:35:17,067 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 19:35:18,834 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 19:35:20,979 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:35:21,147 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:35:21,299 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:35:21,459 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:35:23,363 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 19:35:23,367 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 19:35:58,644 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 19:36:06,113 ERROR Strategy Game [JavaFX Application Thread] File of save was not choosen
+2023-12-18 19:36:06,795 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 19:36:25,168 ERROR Strategy Game [JavaFX Application Thread] File of save was not choosen
+2023-12-18 19:36:25,643 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 19:36:35,279 ERROR Strategy Game [JavaFX Application Thread] File of save was not choosen
+2023-12-18 19:37:23,532 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 19:37:30,697 ERROR Strategy Game [JavaFX Application Thread] File of save has forbidden characters
+2023-12-18 19:37:31,123 INFO Strategy Game [JavaFX Application Thread] Load button was clicked
+2023-12-18 19:37:40,539 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:37:40,691 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:37:40,866 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:37:41,731 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 19:37:43,379 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:37:43,530 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:37:43,667 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:37:43,795 INFO Strategy Game [JavaFX Application Thread] Next move button was clicked
+2023-12-18 19:37:44,123 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 19:37:45,531 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:37:48,675 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 19:37:49,683 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:37:53,755 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 19:37:55,922 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 19:37:55,928 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 19:39:06,092 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 19:39:06,103 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 19:39:21,084 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 19:39:21,097 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 19:48:24,643 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 19:48:26,146 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:48:31,130 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:48:33,018 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:48:35,345 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:48:37,154 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 19:48:37,159 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 19:49:31,547 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 19:49:33,522 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:49:48,202 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 19:49:48,206 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 19:51:42,907 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 19:51:44,762 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:52:10,329 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 19:52:27,074 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:52:37,666 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 19:53:00,345 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 19:53:00,350 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 19:53:23,027 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 19:53:24,586 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:53:33,593 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 19:53:59,585 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 19:53:59,590 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 19:56:41,331 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 19:56:42,881 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:57:06,386 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:57:15,913 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 19:57:34,337 INFO Strategy Game [JavaFX Application Thread] Show graphic button was clicked
+2023-12-18 19:57:36,049 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 19:57:36,054 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+
+2023-12-18 19:58:58,394 INFO Strategy Game [JavaFX Application Thread] New game button was clicked
+2023-12-18 19:58:59,865 INFO Strategy Game [JavaFX Application Thread] Save button was clicked
+2023-12-18 19:59:12,625 INFO Strategy Game [JavaFX Application Thread] Confirmation of saving button was clicked
+2023-12-18 19:59:36,721 INFO Strategy Game [JavaFX Application Thread] Exit to main menu button was clicked
+2023-12-18 19:59:36,726 FATAL Strategy Game [JavaFX Application Thread] Program was closed
+

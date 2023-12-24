@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.example.strategy_game","l":"Game"},{"p":"com.example.strategy_game","l":"HelloApplication"},{"p":"com.example.strategy_game","l":"Main"}];updateSearchResults();
