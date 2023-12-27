@@ -4,8 +4,6 @@ package com.example.strategy_game;
 import javafx.application.Application;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
-import javafx.event.ActionEvent;
-import javafx.event.EventHandler;
 import javafx.geometry.Insets;
 import javafx.geometry.Orientation;
 import javafx.geometry.Pos;
@@ -39,19 +37,19 @@ public class HelloApplication extends Application {
     /**
      * Переменная отвечающая за определение режима карты
      */
-    static boolean map; // Режим карты
+    static boolean map;
     /**
      * Главный объект в котором происходят все действия в игре
      */
-    private static Game game; // Новая игра
+    private static Game game;
     /**
      * Текстовое отображение номера хода
      */
-    private static Label move; // Ход
+    private static Label move;
     /**
      * Массив кнопок для однотипных действий
      */
-    private static final Button[] buttons = new Button[10]; // Кнопки
+    private static final Button[] buttons = new Button[10];
     /**
      * Кнопка Вкл/Выкл музыки на главном меню
      */
@@ -63,67 +61,151 @@ public class HelloApplication extends Application {
     /**
      * Поле ввода названия сохранения
      */
-    private static final TextField save_field = new TextField(); //Имя файла сохранения
+    private static final TextField save_field = new TextField();
     /**
      * Массив объектов соответствующий параметрам поля с таким же номером
      */
-    private static final Field_cost[][] field_cost = new Field_cost[10][10];//Параметры поля
+    private static final Field_cost[][] field_cost = new Field_cost[10][10];
     /**
      * Массив полей
      */
-    private static final TextArea[][] field_point = new TextArea[10][10]; //Поле
+    private static final TextArea[][] field_point = new TextArea[10][10];
     /**
      * Массив надписей для однотипных задач
      */
-    private static final Label[] lables = new Label[10];//Подписи
+    private static final Label[] lables = new Label[10];
     /**
-     * Окна для различных действий
+     * Окна сохранения
      */
-    private static Stage save_window, field_stage, field_buy, stagee, graph; //Окно полей
+    private static Stage save_window;
+    /**
+     * Окно поля
+     */
+    private static Stage field_stage;
+    /**
+     * Окно покупки полей
+     */
+    private static Stage field_buy;
+    /**
+     * Окно главного меню и игры
+     */
+    private static Stage stagee;
+    /**
+     * Окно графика
+     */
+    private static Stage graph;
     /**
      * Массив кнопок для покупки полей с соответствующим номером
      */
-    static final Button[][] field_button = new Button[10][10];//Кнопки покупки
+    static final Button[][] field_button = new Button[10][10];
     /**
      * Объект для генерации случайных чисел
      */
-    static final Random random = new Random();//Функция для случайных чисел
+    static final Random random = new Random();
     /**
      * Базовая вероятность противника захватить поле
      */
-    static double chance = 0.14;//Базовый шанс на захват врагом поля
+    static double chance = 0.14;
     /**
      * Массив для значений номера в первом массиве при выборе поля, захваченного врагом
      */
-    static int[] boti = new int[100];//Выбор поля для врага
+    static int[] boti = new int[100];
     /**
      * Массив для значений номера во втором массиве при выборе поля, захваченного врагом
      */
-    static int[] botj = new int[100];//Выбор поля для врага
+    static int[] botj = new int[100];
     /**
-     * Окна ошибок, для различных целей
+     * Окна ошибки при покупке поля
      */
-    static Alert alert_buy, alert_load, alert_no_file, lose, win, alert_load_music, alert_save; // Окна ошибки
+    static Alert alert_buy;
     /**
-     * Интерфейс для карт
+     * Ошибка загрузки игры
      */
-    private static TilePane field_1, field_2; //Карта
+    static Alert alert_load;
     /**
-     * Интерфейс для главного меню, окна сохранения и окна с графиком
+     * Ошибка отсутствия файла сохранения
      */
-    private static VBox main_menu, save, graphic_window;
+    static Alert alert_no_file;
+    /**
+     * Оповещение о поражении
+     */
+    static Alert lose;
+    /**
+     * Оповещение о победе
+     */
+    static Alert win;
+    /**
+     * Ошибка отсутствия файла музыки
+     */
+    static Alert alert_load_music;
+    /**
+     * Ошибка сохранения игры
+     */
+    static Alert alert_save;
+    /**
+     * Интерфейс для окна карты
+     */
+    private static TilePane field_1;
+    /**
+     * Интерфейс для окна покупки поля
+     */
+    private static TilePane field_2;
+    /**
+     * Интерфейс для главного меню
+     */
+    private static VBox main_menu;
+    /**
+     * Интерфейс для окна сохранения
+     */
+    private static VBox save;
+    /**
+     * Интерфейс для окна с графиком
+     */
+    private static VBox graphic_window;
     /**
      * Интерфейс для игрового меню
      */
     private static GridPane game_menu;
     /**
-     * Кнопки для конкретных задач
+     * Кнопка следующего хода
      */
-    private static Button next, load, newgame, change, exit,exit_menu, show_graph, directory_choose_button;
+    private static Button next;
     /**
-     * Сцены для окон
+     * Кнопка загруки игры
      */
-    private static Scene scene_game, graphic_scene;
+    private static Button load;
+    /**
+     * Кнопка новой игры
+     */
+    private static Button newgame;
+    /**
+     * Кнопка смены режима карты
+     */
+    private static Button change;
+    /**
+     * Кнопка выхода из игрового меню
+     */
+    private static Button exit;
+    /**
+     * Кнопка выхода из главного меню
+     */
+    private static Button exit_menu;
+    /**
+     * Кнопка показа графика
+     */
+    private static Button showing_graph;
+    /**
+     * Кнопка выбора директории сохранения
+     */
+    private static Button directory_choose_button;
+    /**
+     * Сцена для окна игры
+     */
+    private static Scene scene_game;
+    /**
+     * Сцена для окна графика
+     */
+    private static Scene graphic_scene;
     /**
      * Логгер предназначенный для логгирования игры
      */
@@ -137,9 +219,13 @@ public class HelloApplication extends Application {
      */
     private static MediaPlayer mediaPlayer;
     /**
-     * Координаты осей для графика
+     * Координаты х для графика
      */
-    static NumberAxis x, y;
+    static NumberAxis x;
+    /**
+     * Координаты y для графика
+     */
+    static NumberAxis y;
     /**
      * Лист для сбора всех данных для графика
      */
@@ -196,7 +282,7 @@ public class HelloApplication extends Application {
         stagee.setTitle("Strategy Game");
         stagee.setScene(scene);
         stagee.show();
-    } // Окно главного меню
+    }
 
     /**
      * Генерация окна и сцены полей для двух режимов карт
@@ -208,7 +294,7 @@ public class HelloApplication extends Application {
         field_stage.setTitle("Поле игры");
         field_stage.setScene(field1);
         field_stage.setX(stagee.getX() + 200);
-        field_stage.setY(stagee.getY() + 100); // Поле игры
+        field_stage.setY(stagee.getY() + 100);
 
         field_buy = new Stage();
         Scene field2 = new Scene(field_2, 550, 550);
@@ -216,8 +302,8 @@ public class HelloApplication extends Application {
         field_buy.setTitle("Поле игры");
         field_buy.setScene(field2);
         field_buy.setX(stagee.getX() + 200);
-        field_buy.setY(stagee.getY() + 100); // Окно покупок
-    } // Генерация полей
+        field_buy.setY(stagee.getY() + 100);
+    }
 
     /**
      * Добавление элементов интерфейса в игровое меню
@@ -239,8 +325,8 @@ public class HelloApplication extends Application {
         game_menu.add(lables[3], 4, 4);
         game_menu.add(exit, 1, 6);
         game_menu.add(musicButton_2, 1, 5);
-        game_menu.add(show_graph, 2, 1);
-    }// Расположение элементов игрового меню
+        game_menu.add(showing_graph, 2, 1);
+    }
 
     /**
      * Генерация окна сохранения игры
@@ -252,10 +338,10 @@ public class HelloApplication extends Application {
         save_window.setTitle("Сохранение игры");
         save_window.setScene(save_scene);
         save_window.setX(stagee.getX() - 200);
-        save_window.setY(stagee.getY() - 100); // Окно сохранения
+        save_window.setY(stagee.getY() - 100);
         save.getChildren().addAll(directory_choose_button, lables[4], save_field, buttons[0]);
         save.setPadding(new Insets(10, 10, 10, 10));
-    }// Сохранение игры
+    }
 
     /**
      * Создание и настройка служебных кнопок при запуске программы
@@ -263,10 +349,10 @@ public class HelloApplication extends Application {
     public static void SettingsOfNewGame() {
         field_point[9][9].setText(" Вы");
         field_cost[9][9].fraction = 1;
-        field_point[9][9].setStyle("-fx-background-color: green;"); // Начальное поле игрока
+        field_point[9][9].setStyle("-fx-background-color: green;");
         field_point[0][0].setText("Враг");
         field_cost[0][0].fraction = 2;
-        field_point[0][0].setStyle("-fx-background-color: red;"); // Начальное поле врага
+        field_point[0][0].setStyle("-fx-background-color: red;");
         buttons[0].setPrefSize(60, 35);
         move = new Label();
         buttons[3].setText("Купить поле");
@@ -280,8 +366,8 @@ public class HelloApplication extends Application {
         exit.setPrefWidth(200);
         exit_menu = new Button("Выйти из игры");
         exit_menu.setPrefSize(200, 80);
-        show_graph = new Button("Показать график");
-        show_graph.setPrefWidth(200);
+        showing_graph = new Button("Показать график");
+        showing_graph.setPrefWidth(200);
         musicButton_2.setPrefWidth(200);
         newgame = new Button("Новая игра");
         load = new Button("Загрузить сохранение");
@@ -289,7 +375,7 @@ public class HelloApplication extends Application {
         newgame.setPrefSize(200, 80);
         load.setPrefSize(200, 80);
         directory_choose_button = new Button("Выбрать директорию");
-    } //Настройка служебных кнопок
+    }
 
     /**
      * Создание и настройка окон и сцен в игре
@@ -297,25 +383,25 @@ public class HelloApplication extends Application {
     public static void WindowsGeneration() {
         stagee = new Stage();
         field_1 = new TilePane();
-        field_2 = new TilePane(); // Поля
+        field_2 = new TilePane();
         field_1.setOrientation(Orientation.HORIZONTAL);
-        field_2.setOrientation(Orientation.HORIZONTAL); // Поля
+        field_2.setOrientation(Orientation.HORIZONTAL);
         main_menu = new VBox();
         main_menu.setPadding(new Insets(10, 10, 10, 10));
         main_menu.setSpacing(10);
-        main_menu.setAlignment(Pos.CENTER); // Главное меню
+        main_menu.setAlignment(Pos.CENTER);
         game_menu = new GridPane();
         game_menu.setPadding(new Insets(10, 10, 10, 10));
-        game_menu.setAlignment(Pos.TOP_CENTER); // Игровое меню
+        game_menu.setAlignment(Pos.TOP_CENTER);
         save = new VBox();
         save.setSpacing(10);
-        save.setAlignment(Pos.TOP_CENTER); // Меню сохранения
+        save.setAlignment(Pos.TOP_CENTER);
         graphic_window = new VBox(line_graphic);
         graphic_scene = new Scene(graphic_window, 600, 400);
         graph = new Stage();
         graph.setScene(graphic_scene);
         graph.setTitle("График ресурсов");
-    } // Создание окон и их настройка
+    }
 
     /**
      * Генерация двойного массива кнопок и текстовых полей для меню покупки и отображения игровых провинций
@@ -324,9 +410,9 @@ public class HelloApplication extends Application {
         for (int i = 0; i < 10; i++) {
             buttons[i] = new Button();
             buttons[i].setPrefWidth(200);
-        }// Создание кнопок
+        }
         for (int i = 0; i < 10; i++)
-            lables[i] = new Label(); // Создание надписей
+            lables[i] = new Label();
         for (int i = 0; i < 10; i++) {
             for (int j = 0; j < 10; j++) {
                 field_cost[i][j] = new Field_cost();
@@ -336,8 +422,8 @@ public class HelloApplication extends Application {
                 field_point[i][j].setEditable(false);
                 field_1.getChildren().add(field_point[i][j]);
             }
-        } // Создание полей
-    } // Создание полей и кнопок
+        }
+    }
 
     /**
      * Создание окон с ошибками, которые могут произойти при использовании программы
@@ -351,19 +437,17 @@ public class HelloApplication extends Application {
         lose = new Alert(Alert.AlertType.NONE, "Вы проиграли", ButtonType.OK);
         win = new Alert(Alert.AlertType.NONE, "Вы выиграли", ButtonType.OK);
 
-    }// Ошибки и финальное окно
+    }
 
     /**
      * Открытие окна с выбором файла сохранения
      */
     public static void FileChoose() {
         fileChooser = new FileChooser();
-        fileChooser.getExtensionFilters().addAll(
-                new FileChooser.ExtensionFilter("SAVE", "*.save"),
-                new FileChooser.ExtensionFilter("ALL FILES", "*.*"));
+        fileChooser.getExtensionFilters().addAll(new FileChooser.ExtensionFilter("SAVE", "*.save"), new FileChooser.ExtensionFilter("ALL FILES", "*.*"));
         fileChooser.setTitle("Open Resource File");
         file = fileChooser.showOpenDialog(stagee);
-    } // Выбор файла сохранения
+    }
 
     /**
      * Выбор директории для файла сохранения
@@ -378,7 +462,7 @@ public class HelloApplication extends Application {
         } else {
             alert_no_file.showAndWait();
         }
-    }// Выбор директории сохранения
+    }
 
     /**
      * Кнопка, отвечающая за загрузку игры
@@ -415,16 +499,16 @@ public class HelloApplication extends Application {
                     for (int i = 0; i < game.move; i++) {
                         int x = Integer.parseInt(new String(Base64.getDecoder().decode(reader.readLine())));
                         graphic_peasants.add(new XYChart.Data(i, x));
-                        save_graphs.append("\n").append(Base64.getEncoder().encodeToString(Integer.toString(x).getBytes()));
+                        save_graphs.append("\n" + Base64.getEncoder().encodeToString(Integer.toString(x).getBytes()));
                         x = Integer.parseInt(new String(Base64.getDecoder().decode(reader.readLine())));
                         graphic_rise.add(new XYChart.Data(i, x));
-                        save_graphs.append("\n").append(Base64.getEncoder().encodeToString(Integer.toString(x).getBytes()));
+                        save_graphs.append("\n" + Base64.getEncoder().encodeToString(Integer.toString(x).getBytes()));
                         x = Integer.parseInt(new String(Base64.getDecoder().decode(reader.readLine())));
                         graphic_water.add(new XYChart.Data(i, x));
-                        save_graphs.append("\n").append(Base64.getEncoder().encodeToString(Integer.toString(x).getBytes()));
+                        save_graphs.append("\n" + Base64.getEncoder().encodeToString(Integer.toString(x).getBytes()));
                         x = Integer.parseInt(new String(Base64.getDecoder().decode(reader.readLine())));
                         graphic_home.add(new XYChart.Data(i, x));
-                        save_graphs.append("\n").append(Base64.getEncoder().encodeToString(Integer.toString(x).getBytes()));
+                        save_graphs.append("\n" + Base64.getEncoder().encodeToString(Integer.toString(x).getBytes()));
                     }
                     map = true;
 
@@ -445,9 +529,9 @@ public class HelloApplication extends Application {
                     buttons[3].setDisable(true);
                     for (int i = 0; i < 10; i++)
                         for (int j = 0; j < 10; j++) {
-                            if (field_cost[i][j].fraction == 0)
+                            if (field_cost[i][j].fraction == 0) {
                                 field_point[i][j].setText(null);
-                            else if (field_cost[i][j].fraction == 1) {
+                            } else if (field_cost[i][j].fraction == 1) {
                                 field_point[i][j].setText(" Вы");
                                 field_point[i][j].setStyle("-fx-background-color: green;");
                             } else if (field_cost[i][j].fraction == 2) {
@@ -467,7 +551,7 @@ public class HelloApplication extends Application {
                 e.printStackTrace();
             }
         }
-    }//Кнопка загрузки игры
+    }
 
     /**
      * Кнопка, отвечающая за новую игру
@@ -481,7 +565,7 @@ public class HelloApplication extends Application {
 
         map = true;
         game = new Game();
-        move.setText("Ход: " + String.valueOf(game.move));
+        move.setText("Ход: " + game.move);
         buttons[2].setDisable(true);
         buttons[3].setDisable(true);
         buttons[2].setText("Показать карту");
@@ -493,7 +577,7 @@ public class HelloApplication extends Application {
         lables[3].setText("Количество домов: " + game.home.count);
         stagee.setScene(scene_game);
         stagee.show();
-    } //Кнопка новой игры
+    }
 
     /**
      * Кнопки предназначенные для покупки полей
@@ -503,37 +587,29 @@ public class HelloApplication extends Application {
             for (int j = 0; j < 10; j++) {
                 int finalJ = j;
                 int finalI = i;
-                field_button[i][j].setOnAction(new EventHandler<ActionEvent>() {
-                    /** Кнопки покупки поля
-                     * @param event При нажатии и наличии ресурсов происходит покупка поля
-                     */
-                    @Override
-                    public void handle(ActionEvent event) {
-                        logger.info("Buy field button was clicked");
-                        if (game.peasants.count >= field_cost[finalI][finalJ].cost[0] &
-                                game.rise.count >= field_cost[finalI][finalJ].cost[1] &
-                                game.water.count >= field_cost[finalI][finalJ].cost[2]) {
-                            game.peasants.count = game.peasants.count - field_cost[finalI][finalJ].cost[0];
-                            game.rise.count = game.rise.count - field_cost[finalI][finalJ].cost[1];
-                            game.water.count = game.water.count - field_cost[finalI][finalJ].cost[2];
-                            field_cost[finalI][finalJ].fraction = 1;
-                            field_point[finalI][finalJ].setStyle("-fx-background-color: green;");
-                            field_buy.close();
-                            buttons[2].setDisable(false);
-                            buttons[3].setDisable(false);
-                            change.setDisable(false);
-                        } else {
-                            alert_buy.showAndWait();
-                            logger.error("There are not enough resources to purchase a field");
-                        }
-                        lables[0].setText("Количество крестьян: " + game.peasants.count);
-                        lables[1].setText("Количество риса: " + game.rise.count);
-                        lables[2].setText("Количество воды: " + game.water.count);
+                field_button[i][j].setOnAction(event -> {
+                    logger.info("Buy field button was clicked");
+                    if (game.peasants.count >= field_cost[finalI][finalJ].cost[0] & game.rise.count >= field_cost[finalI][finalJ].cost[1] & game.water.count >= field_cost[finalI][finalJ].cost[2]) {
+                        game.peasants.count = game.peasants.count - field_cost[finalI][finalJ].cost[0];
+                        game.rise.count = game.rise.count - field_cost[finalI][finalJ].cost[1];
+                        game.water.count = game.water.count - field_cost[finalI][finalJ].cost[2];
+                        field_cost[finalI][finalJ].fraction = 1;
+                        field_point[finalI][finalJ].setStyle("-fx-background-color: green;");
+                        field_buy.close();
+                        buttons[2].setDisable(false);
+                        buttons[3].setDisable(false);
+                        change.setDisable(false);
+                    } else {
+                        alert_buy.showAndWait();
+                        logger.error("There are not enough resources to purchase a field");
                     }
+                    lables[0].setText("Количество крестьян: " + game.peasants.count);
+                    lables[1].setText("Количество риса: " + game.rise.count);
+                    lables[2].setText("Количество воды: " + game.water.count);
                 });
             }
         }
-    }//Кнопки покупки полей
+    }
 
     /**
      * Функция отвечающая за работу простейшего искусственного интеллекта
@@ -565,8 +641,7 @@ public class HelloApplication extends Application {
             field_cost[boti[choose]][botj[choose]].fraction = 2;
             field_point[boti[choose]][botj[choose]].setStyle("-fx-background-color: red;");
             chance = 1;
-        } else
-            chance *= 1.4;
+        } else chance *= 1.4;
     }
 
     /**
@@ -576,10 +651,11 @@ public class HelloApplication extends Application {
         int count_enemy = 0, count_you = 0;
         for (int i = 0; i < 10; i++)
             for (int j = 0; j < 10; j++) {
-                if (field_cost[i][j].fraction == 2)
+                if (field_cost[i][j].fraction == 2) {
                     count_enemy += 1;
-                else if (field_cost[i][j].fraction == 1)
+                } else if (field_cost[i][j].fraction == 1) {
                     count_you += 1;
+                }
             }
         if (count_enemy >= 51) {
             stagee.close();
@@ -611,10 +687,10 @@ public class HelloApplication extends Application {
         graphic_rise.add(new XYChart.Data(game.move, game.rise.count));
         graphic_water.add(new XYChart.Data(game.move, game.water.count));
         graphic_home.add(new XYChart.Data(game.move, game.home.count));
-        save_graphs.append("\n").append(Base64.getEncoder().encodeToString(Integer.toString(game.peasants.count).getBytes()));
-        save_graphs.append("\n").append(Base64.getEncoder().encodeToString(Integer.toString(game.rise.count).getBytes()));
-        save_graphs.append("\n").append(Base64.getEncoder().encodeToString(Integer.toString(game.water.count).getBytes()));
-        save_graphs.append("\n").append(Base64.getEncoder().encodeToString(Integer.toString(game.home.count).getBytes()));
+        save_graphs.append("\n" + Base64.getEncoder().encodeToString(Integer.toString(game.peasants.count).getBytes()));
+        save_graphs.append("\n" + Base64.getEncoder().encodeToString(Integer.toString(game.rise.count).getBytes()));
+        save_graphs.append("\n" + Base64.getEncoder().encodeToString(Integer.toString(game.water.count).getBytes()));
+        save_graphs.append("\n" + Base64.getEncoder().encodeToString(Integer.toString(game.home.count).getBytes()));
 
 
         game.move++;
@@ -636,22 +712,20 @@ public class HelloApplication extends Application {
         lables[1].setText("Количество риса: " + game.rise.count);
         lables[2].setText("Количество воды: " + game.water.count);
         lables[3].setText("Количество домов: " + game.home.count);
-    } //Следующий ход
+    }
 
     /**
      * Кнопка смены режима карты
      */
     public static void ChangeMapButton() {
         logger.info("Change map mode button was clicked");
-        if (map == true) {
+        if (map) {
             map = !map;
             for (int i = 0; i < 10; i++)
                 for (int j = 0; j < 10; j++) {
-                    if (field_cost[i][j].fraction == 0)
-                        field_point[i][j].setText(String.valueOf(field_cost[i][j].cost[0]) + " "
-                                + String.valueOf(field_cost[i][j].cost[1]) + " "
-                                + String.valueOf(field_cost[i][j].cost[2]));
-                    else if (field_cost[i][j].fraction == 2) {
+                    if (field_cost[i][j].fraction == 0) {
+                        field_point[i][j].setText(String.valueOf(field_cost[i][j].cost[0]) + " " + String.valueOf(field_cost[i][j].cost[1]) + " " + String.valueOf(field_cost[i][j].cost[2]));
+                    } else if (field_cost[i][j].fraction == 2) {
                         field_point[i][j].setText(" ");
                         field_point[i][j].setStyle("-fx-background-color: red;");
                     } else {
@@ -663,9 +737,9 @@ public class HelloApplication extends Application {
             map = !map;
             for (int i = 0; i < 10; i++)
                 for (int j = 0; j < 10; j++) {
-                    if (field_cost[i][j].fraction == 0)
+                    if (field_cost[i][j].fraction == 0) {
                         field_point[i][j].setText(null);
-                    else if (field_cost[i][j].fraction == 1) {
+                    } else if (field_cost[i][j].fraction == 1) {
                         field_point[i][j].setText(" Вы");
                         field_point[i][j].setStyle("-fx-background-color: green;");
                     } else if (field_cost[i][j].fraction == 2) {
@@ -677,7 +751,7 @@ public class HelloApplication extends Application {
         field_stage.show();
         buttons[2].setDisable(true);
         buttons[3].setDisable(true);
-    } //Смена режима карты
+    }
 
     /**
      * Кнопка подтверждения сохранения игры
@@ -690,23 +764,22 @@ public class HelloApplication extends Application {
         try (FileWriter writer = new FileWriter(path + "\\" + save_field.getText() + ".save", false)) {
             StringBuilder text = new StringBuilder();
             text.append(Base64.getEncoder().encodeToString(Integer.toString(game.move).getBytes()));
-            text.append("\n").append(Base64.getEncoder().encodeToString(Integer.toString(game.home.count).getBytes()));
-            text.append("\n").append(Base64.getEncoder().encodeToString(Integer.toString(game.rise.count).getBytes()));
-            text.append("\n").append(Base64.getEncoder().encodeToString(Integer.toString(game.peasants.count).getBytes()));
-            text.append("\n").append(Base64.getEncoder().encodeToString(Integer.toString(game.water.count).getBytes()));
+            text.append("\n" + Base64.getEncoder().encodeToString(Integer.toString(game.home.count).getBytes()));
+            text.append("\n" + Base64.getEncoder().encodeToString(Integer.toString(game.rise.count).getBytes()));
+            text.append("\n" + Base64.getEncoder().encodeToString(Integer.toString(game.peasants.count).getBytes()));
+            text.append("\n" + Base64.getEncoder().encodeToString(Integer.toString(game.water.count).getBytes()));
             for (int i = 0; i < 10; i++)
                 for (int j = 0; j < 10; j++) {
-                    text.append("\n").append(Base64.getEncoder().encodeToString(Integer.toString(field_cost[i][j].cost[0]).getBytes()));
-                    text.append("\n").append(Base64.getEncoder().encodeToString(Integer.toString(field_cost[i][j].cost[1]).getBytes()));
-                    text.append("\n").append(Base64.getEncoder().encodeToString(Integer.toString(field_cost[i][j].cost[2]).getBytes()));
-                    text.append("\n").append(Base64.getEncoder().encodeToString(Integer.toString(field_cost[i][j].fraction).getBytes()));
+                    text.append("\n" + Base64.getEncoder().encodeToString(Integer.toString(field_cost[i][j].cost[0]).getBytes()));
+                    text.append("\n" + Base64.getEncoder().encodeToString(Integer.toString(field_cost[i][j].cost[1]).getBytes()));
+                    text.append("\n" + Base64.getEncoder().encodeToString(Integer.toString(field_cost[i][j].cost[2]).getBytes()));
+                    text.append("\n" + Base64.getEncoder().encodeToString(Integer.toString(field_cost[i][j].fraction).getBytes()));
 
                 }
-            text.append("\n").append(Base64.getEncoder().encodeToString(Boolean.toString(buttons[4].isDisable()).getBytes()));
-            text.append("\n").append(Base64.getEncoder().encodeToString(Boolean.toString(buttons[5].isDisable()).getBytes()));
-            text.append("\n").append(Base64.getEncoder().encodeToString(Boolean.toString(buttons[6].isDisable()).getBytes()));
-            text.append("\n").append(Base64.getEncoder().encodeToString(Boolean.toString(buttons[7].isDisable()).getBytes()));
-            text.append("\n").append(Base64.getEncoder().encodeToString(Boolean.toString(game.rise.watered).getBytes()));
+            for (int i = 4; i < 8; i++) {
+                text.append("\n" + Base64.getEncoder().encodeToString(Boolean.toString(buttons[i].isDisable()).getBytes()));
+            }
+            text.append("\n" + Base64.getEncoder().encodeToString(Boolean.toString(game.rise.watered).getBytes()));
             text.append(save_graphs);
             writer.write(text.toString());
             writer.flush();
@@ -717,9 +790,9 @@ public class HelloApplication extends Application {
         buttons[2].setDisable(false);
         buttons[3].setDisable(false);
         change.setDisable(false);
-        show_graph.setDisable(false);
+        showing_graph.setDisable(false);
         save_window.close();
-    } //Подтверждение сохранения игры
+    }
 
     /**
      * Кнопка для открытия окна сохранения игры
@@ -735,7 +808,7 @@ public class HelloApplication extends Application {
         field_buy.close();
         field_stage.close();
         graph.close();
-    } // Сохранение игры
+    }
 
     /**
      * Кнопка показа карты игры
@@ -748,9 +821,7 @@ public class HelloApplication extends Application {
             for (int i = 0; i < 10; i++)
                 for (int j = 0; j < 10; j++) {
                     if (field_cost[i][j].fraction == 0)
-                        field_point[i][j].setText(String.valueOf(field_cost[i][j].cost[0]) + " "
-                                + String.valueOf(field_cost[i][j].cost[1]) + " "
-                                + String.valueOf(field_cost[i][j].cost[2]));
+                        field_point[i][j].setText(String.valueOf(field_cost[i][j].cost[0]) + " " + String.valueOf(field_cost[i][j].cost[1]) + " " + String.valueOf(field_cost[i][j].cost[2]));
                     else if (field_cost[i][j].fraction == 2) {
                         field_point[i][j].setText(" ");
                         field_point[i][j].setStyle("-fx-background-color: red;");
@@ -762,9 +833,9 @@ public class HelloApplication extends Application {
         } else {
             for (int i = 0; i < 10; i++)
                 for (int j = 0; j < 10; j++) {
-                    if (field_cost[i][j].fraction == 0)
+                    if (field_cost[i][j].fraction == 0) {
                         field_point[i][j].setText(null);
-                    else if (field_cost[i][j].fraction == 1) {
+                    } else if (field_cost[i][j].fraction == 1) {
                         field_point[i][j].setText(" Вы");
                         field_point[i][j].setStyle("-fx-background-color: green;");
                     } else if (field_cost[i][j].fraction == 2) {
@@ -774,7 +845,7 @@ public class HelloApplication extends Application {
                 }
         }
         field_stage.show();
-    }// Кнопка показа карты
+    }
 
     /**
      * Кнопка перехода в меню покупки полей
@@ -794,31 +865,22 @@ public class HelloApplication extends Application {
                     field_button[i][j].setText("Враг");
                     field_button[i][j].setDisable(true);
                 } else if (i != 9 && field_cost[i][j].fraction == 0 && field_cost[1 + i][j].fraction == 1) {
-                    field_button[i][j].setText(String.valueOf(field_cost[i][j].cost[0]) + " "
-                            + String.valueOf(field_cost[i][j].cost[1]) + " "
-                            + String.valueOf(field_cost[i][j].cost[2]));
+                    field_button[i][j].setText(String.valueOf(field_cost[i][j].cost[0]) + " " + String.valueOf(field_cost[i][j].cost[1]) + " " + String.valueOf(field_cost[i][j].cost[2]));
                     field_button[i][j].setDisable(false);
                 } else if (j != 9 && field_cost[i][j].fraction == 0 && field_cost[i][1 + j].fraction == 1) {
-                    field_button[i][j].setText(String.valueOf(field_cost[i][j].cost[0]) + " "
-                            + String.valueOf(field_cost[i][j].cost[1]) + " "
-                            + String.valueOf(field_cost[i][j].cost[2]));
+                    field_button[i][j].setText(String.valueOf(field_cost[i][j].cost[0]) + " " + String.valueOf(field_cost[i][j].cost[1]) + " " + String.valueOf(field_cost[i][j].cost[2]));
                     field_button[i][j].setDisable(false);
                 } else if (i != 0 && field_cost[i][j].fraction == 0 && field_cost[i - 1][j].fraction == 1) {
-                    field_button[i][j].setText(String.valueOf(field_cost[i][j].cost[0]) + " "
-                            + String.valueOf(field_cost[i][j].cost[1]) + " "
-                            + String.valueOf(field_cost[i][j].cost[2]));
+                    field_button[i][j].setText(String.valueOf(field_cost[i][j].cost[0]) + " " + String.valueOf(field_cost[i][j].cost[1]) + " " + String.valueOf(field_cost[i][j].cost[2]));
                     field_button[i][j].setDisable(false);
                 } else if (j != 0 && field_cost[i][j].fraction == 0 && field_cost[i][j - 1].fraction == 1) {
-                    field_button[i][j].setText(String.valueOf(field_cost[i][j].cost[0]) + " "
-                            + String.valueOf(field_cost[i][j].cost[1]) + " "
-                            + String.valueOf(field_cost[i][j].cost[2]));
+                    field_button[i][j].setText(String.valueOf(field_cost[i][j].cost[0]) + " " + String.valueOf(field_cost[i][j].cost[1]) + " " + String.valueOf(field_cost[i][j].cost[2]));
                     field_button[i][j].setDisable(false);
-                } else
-                    field_button[i][j].setDisable(true);
+                } else field_button[i][j].setDisable(true);
 
             }
         field_buy.show();
-    }//Кнопка меню покупки полей
+    }
 
     /**
      * Функция генерации кнопок для покупки полей
@@ -832,7 +894,7 @@ public class HelloApplication extends Application {
                 field_2.getChildren().add(field_button[i][j]);
             }
         } //Создание покупки полей
-    } //Генерация кнопок покупки полей
+    }
 
     /**
      * Кнопка постройки дома
@@ -853,7 +915,7 @@ public class HelloApplication extends Application {
         lables[1].setText("Количество риса: " + game.rise.count);
         lables[2].setText("Количество воды: " + game.water.count);
         lables[3].setText("Количество домов: " + game.home.count);
-    } // Кнопка покупки дома
+    }
 
     /**
      * Кнопка сбора воды
@@ -870,7 +932,7 @@ public class HelloApplication extends Application {
         }
         lables[0].setText("Количество крестьян: " + game.peasants.count);
         lables[2].setText("Количество воды: " + game.water.count);
-    } // Кнопка сбора воды
+    }
 
     /**
      * Кнопка полития риса
@@ -887,7 +949,7 @@ public class HelloApplication extends Application {
             buttons[6].setText("Недостаточно воды для полива");
         }
         lables[2].setText("Количество воды: " + game.water.count);
-    } // Кнопка полития риса
+    }
 
     /**
      * Кнопка сбора риса
@@ -896,11 +958,12 @@ public class HelloApplication extends Application {
         logger.info("Collecting rise button was clicked");
         if (game.peasants.count > 0) {
             game.peasants.count -= 1;
-            if (game.rise.watered == true) {
+            if (game.rise.watered) {
                 game.rise.count += 3;
                 game.rise.ChangeWatered();
-            } else
+            } else {
                 game.rise.count += 1;
+            }
             for (int i = 4; i < 8; i++)
                 buttons[i].setDisable(true);
         } else {
@@ -908,7 +971,7 @@ public class HelloApplication extends Application {
         }
         lables[0].setText("Количество крестьян: " + game.peasants.count);
         lables[1].setText("Количество риса: " + game.rise.count);
-    }// Кнопка сбора риса
+    }
 
     /**
      * Кнопка для выхода из игры в игровом меню
@@ -926,7 +989,7 @@ public class HelloApplication extends Application {
     /**
      * Кнопка для выхода из игры в главном меню
      */
-    public static void ExitMenuButton(){
+    public static void ExitMenuButton() {
         logger.info("Exit button was clicked");
         save_window.close();
         field_stage.close();
@@ -1017,13 +1080,9 @@ public class HelloApplication extends Application {
         y.setLabel("Ресурсы");
         line_graphic = new LineChart(x, y, graphic);
         line_graphic.setTitle("Ресурсы за ход");
-
         graphic.add(new XYChart.Series("Крестьяне", graphic_peasants));
-        // graphic_peasants.add(new XYChart.Data( 1000, 567));
         graphic.add(new XYChart.Series("Рис", graphic_rise));
-
         graphic.add(new XYChart.Series("Вода", graphic_water));
-
         graphic.add(new XYChart.Series("Дома", graphic_home));
     }
 
@@ -1032,7 +1091,7 @@ public class HelloApplication extends Application {
      */
     public static void ShowGraphButton() {
         logger.info("Show graphic button was clicked");
-        show_graph.setDisable(true);
+        showing_graph.setDisable(true);
         graph.show();
     }
 
@@ -1050,92 +1109,82 @@ public class HelloApplication extends Application {
 
         MusicButtonTwo();
 
-        WindowsGeneration(); // Создание окон и их настройка
+        WindowsGeneration();
 
-        FieldsAndButtons(); // Создание полей и кнопок
+        FieldsAndButtons();
 
-        GenerationFieldButtons(); //Генерация кнопок покупки полей
+        GenerationFieldButtons();
 
-        Alerts();// Ошибки и финальное окно
+        Alerts();
 
         Music();
 
         MusicRetry();
 
-        SettingsOfNewGame(); // Настройка парметров игры
+        SettingsOfNewGame();
 
-        FieldWindows(); // Генерация полей
+        FieldWindows();
 
-        BuyFieldButtons(); // Покупка поля
+        BuyFieldButtons();
 
-        MainMenuWindow(); // Окно главного меню
+        MainMenuWindow();
 
-        GameInterface();// Расположение элементов игрового меню
+        GameInterface();
 
-        SaveWindowVoid(); // Сохранение игры
+        SaveWindowVoid();
 
         load.setOnAction(event -> {
             LoadButton();
-        }); // Загрузка игры
-
+        });
 
         newgame.setOnAction(event -> {
             NewGameButton();
-        }); // Новая игра
-
+        });
 
         next.setOnAction(event -> {
             NextMoveButton();
-        }); // Следующий ход
-
+        });
 
         change.setOnAction(event -> {
             ChangeMapButton();
-        }); // Смена карты
-
+        });
 
         buttons[0].setOnAction(event -> {
             AcceptSaveButton();
-        }); //Подтверждение сохранения
-
+        });
 
         buttons[1].setOnAction(event -> {
             SaveButton();
-        }); //Сохранить игру
-
+        });
 
         buttons[2].setOnAction(event -> {
             ShowMapButton();
-        }); //Показ карты
-
+        });
 
         buttons[3].setOnAction(event -> {
             BuyButtonsMenuButton();
-        }); // Кнопки для покупки
-
+        });
 
         buttons[4].setOnAction(event -> {
             BuyHomeButton();
-        }); // Постройка дома
-
+        });
 
         buttons[5].setOnAction(event -> {
             GetWaterButton();
-        }); // Сбор воды
-
+        });
 
         buttons[6].setOnAction(event -> {
             WateredRiseButton();
-        }); // Поливка риса
-
+        });
 
         buttons[7].setOnAction(event -> {
             CollectingRiseButton();
-        }); // Сбор риса
+        });
 
         exit_menu.setOnAction(event -> {
             ExitMenuButton();
         });
+
         directory_choose_button.setOnAction(event -> {
             DirectoryChoose();
         });
@@ -1144,18 +1193,18 @@ public class HelloApplication extends Application {
             ExitButton();
         });
 
-        show_graph.setOnAction(event -> {
+        showing_graph.setOnAction(event -> {
             ShowGraphButton();
         });
 
         graph.setOnCloseRequest(event -> {
-            show_graph.setDisable(false);
+            showing_graph.setDisable(false);
         });
 
         field_stage.setOnCloseRequest(event -> {
             buttons[2].setDisable(false);
             buttons[3].setDisable(false);
-        }); // Блокировка кнопки показа карты
+        });
 
         field_buy.setOnCloseRequest(event -> {
             buttons[2].setDisable(false);
@@ -1172,7 +1221,7 @@ public class HelloApplication extends Application {
             buttons[2].setDisable(false);
             buttons[3].setDisable(false);
             change.setDisable(false);
-            show_graph.setDisable(false);
+            showing_graph.setDisable(false);
         });
     }
 }
