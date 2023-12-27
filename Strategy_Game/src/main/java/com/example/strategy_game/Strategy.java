@@ -1003,7 +1003,7 @@ public class Strategy extends Application {
      * Функция для проверки запрещенных символов в названии файла сохранения
      */
     public static void WrongSymbols() {
-        String[] wrond = new String[]{"|", "con", "/", "\\", ">", "<", ":", "*", "?", "'",};
+        String[] wrond = new String[]{"|", "con", "/", "\\", ">", "<", ":", "*", "?", "'", "."};
         for (int i = 0; i < wrond.length; i++) {
             if (SAVE_FIELD.getText().contains(wrond[i])) {
                 alertSave.showAndWait();
