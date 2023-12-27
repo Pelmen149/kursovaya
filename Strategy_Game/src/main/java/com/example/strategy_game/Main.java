@@ -11,14 +11,14 @@ public class Main {
     /**
      * Логгер для логгирования игры
      */
-    private static final Logger logger = LogManager.getLogger("Strategy Game");
+    private static final Logger LOGGER = LogManager.getLogger("Strategy Game");
 
     /**
      * Функция запускающая программу
      */
     public static void main(String[] args) {
-        logger.info("Program has been successfully launched");
-        Application.launch(HelloApplication.class, args);
-        logger.fatal("Program was closed\n");
+        LOGGER.info("Program has been successfully launched");
+        Application.launch(Strategy.class, args);
+        LOGGER.fatal("Program was closed\n");
     }
 }
